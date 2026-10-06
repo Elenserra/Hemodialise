@@ -1,6 +1,6 @@
 # Projeto Hemodiálise
 
-Projeto desenvolvido para apoiar a **ampliação do acesso de pacientes ao tratamento de hemodiálise**, utilizando modelos computacionais de **Programação Linear Inteira (PLI)** e técnicas de otimização.
+Projeto desenvolvido para apoiar a **ampliação do acesso de pacientes ao tratamento de hemodiálise do estado do Maranhão**, utilizando modelos computacionais de **Programação Linear Inteira (PLI)** e técnicas de otimização.
 
 O projeto busca utilizar modelos matemáticos para auxiliar na tomada de decisões relacionadas à alocação e ao atendimento de pacientes que necessitam de tratamento de hemodiálise, contribuindo para uma melhor utilização dos recursos disponíveis.
 
@@ -32,7 +32,7 @@ Para executar os modelos e realizar a resolução do problema:
 python3 main.py
 ```
 
-O arquivo `main.py` é responsável por executar os modelos implementados e apresentar os resultados relacionados ao acesso dos pacientes ao tratamento de hemodiálise.
+O arquivo `main.py` é responsável pela execução dos modelos de otimização implementados, bem como pela apresentação dos resultados obtidos. Esses resultados permitem analisar a distribuição dos pacientes entre as unidades de tratamento de hemodiálise do estado do Maranhão, contribuindo para a avaliação e o planejamento do acesso dos pacientes ao tratamento.
 
 ## Visualização dos resultados
 
