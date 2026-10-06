@@ -20,13 +20,7 @@ Para executar o projeto, é necessário ter instalado:
 
 ## Como executar
 
-Entre na pasta do projeto:
-
-```bash
-cd projetoHemo
-```
-
-Para executar os modelos e realizar a resolução do problema:
+Acesse a pasta do projeto e execute o arquivo `main.py` para realizar a execução dos modelos e obter a solução do problema:
 
 ```bash
 python3 main.py
