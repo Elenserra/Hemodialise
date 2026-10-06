@@ -1,0 +1,21 @@
+{
+  "destinos": [
+      { "id": "C1", "nome": "Acailandia", "oferta": 108 },
+      { "id": "C2", "nome": "Bacabal", "oferta": 145 },
+      { "id": "C3", "nome": "Balsas", "oferta": 40 },
+      { "id": "C4", "nome": "Barreirinhas", "oferta": 78 },
+      { "id": "C5", "nome": "Carutapera", "oferta": 27 },
+      { "id": "C6", "nome": "Caxias", "oferta": 186 },
+      { "id": "C7", "nome": "Chapadinha", "oferta": 90 },
+      { "id": "C8", "nome": "Codo", "oferta": 38 },
+      { "id": "C9", "nome": "Imperatriz", "oferta": 366 },
+      { "id": "C10", "nome": "Pedreiras", "oferta": 51 },
+      { "id": "C11", "nome": "Pinheiro", "oferta": 276 },
+      { "id": "C12", "nome": "Presidente Dutra", "oferta": 65 },
+      { "id": "C13", "nome": "Santa Ines", "oferta": 75 },
+      
+      { "id": "C14", "nome": "Timon", "oferta": 84 }
+  ]
+}
+
+

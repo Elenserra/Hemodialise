@@ -1,0 +1,997 @@
+{
+    "status": "Optimal",
+    "funcao_objetivo": 102858.91,
+    "custo_total": 102858.91,
+    "alocacoes": [
+        {
+            "origem": "AFONSO CUNHA",
+            "destino": "CHAPADINHA",
+            "demanda": 2,
+            "distancia": 43.71
+        },
+        {
+            "origem": "ALCANTARA",
+            "destino": "SAO LUIS",
+            "demanda": 7,
+            "distancia": 23.14
+        },
+        {
+            "origem": "ALDEIAS ALTAS",
+            "destino": "CAXIAS",
+            "demanda": 7,
+            "distancia": 28.93
+        },
+        {
+            "origem": "ALTAMIRA DO MARANHAO",
+            "destino": "SANTA INES",
+            "demanda": 2,
+            "distancia": 57.19
+        },
+        {
+            "origem": "ALTO ALEGRE DO MARANHAO",
+            "destino": "BACABAL",
+            "demanda": 8,
+            "distancia": 37.09
+        },
+        {
+            "origem": "ALTO ALEGRE DO PINDARE",
+            "destino": "SANTA INES",
+            "demanda": 13,
+            "distancia": 52.42
+        },
+        {
+            "origem": "ALTO PARNAIBA",
+            "destino": "BALSAS",
+            "demanda": 2,
+            "distancia": 95.55
+        },
+        {
+            "origem": "AMARANTE DO MARANHAO",
+            "destino": "IMPERATRIZ",
+            "demanda": 16,
+            "distancia": 91.24
+        },
+        {
+            "origem": "ANAJATUBA",
+            "destino": "SAO LUIS",
+            "demanda": 16,
+            "distancia": 87.08
+        },
+        {
+            "origem": "ANAPURUS",
+            "destino": "CHAPADINHA",
+            "demanda": 17,
+            "distancia": 28.46
+        },
+        {
+            "origem": "ARAGUANA",
+            "destino": "PINHEIRO",
+            "demanda": 4,
+            "distancia": 79.62
+        },
+        {
+            "origem": "ARAME",
+            "destino": "ACAILANDIA",
+            "demanda": 5,
+            "distancia": 161.11
+        },
+        {
+            "origem": "ARARI",
+            "destino": "PINHEIRO",
+            "demanda": 7,
+            "distancia": 108.71
+        },
+        {
+            "origem": "AXIXA",
+            "destino": "SAO LUIS",
+            "demanda": 7,
+            "distancia": 39.43
+        },
+        {
+            "origem": "BACABEIRA",
+            "destino": "SAO LUIS",
+            "demanda": 6,
+            "distancia": 47.06
+        },
+        {
+            "origem": "BACURITUBA",
+            "destino": "SAO LUIS",
+            "demanda": 3,
+            "distancia": 5.23
+        },
+        {
+            "origem": "BARRA DO CORDA",
+            "destino": "PRESIDENTE DUTRA",
+            "demanda": 49,
+            "distancia": 87.33
+        },
+        {
+            "origem": "BELAGUA",
+            "destino": "BARREIRINHAS",
+            "demanda": 2,
+            "distancia": 88.08
+        },
+        {
+            "origem": "BELA VISTA DO MARANHAO",
+            "destino": "SANTA INES",
+            "demanda": 8,
+            "distancia": 16.53
+        },
+        {
+            "origem": "BEQUIMAO",
+            "destino": "PINHEIRO",
+            "demanda": 7,
+            "distancia": 33.92
+        },
+        {
+            "origem": "BOM JARDIM",
+            "destino": "PINHEIRO",
+            "demanda": 7,
+            "distancia": 126.71
+        },
+        {
+            "origem": "BOM JARDIM",
+            "destino": "SANTA INES",
+            "demanda": 5,
+            "distancia": 28.83
+        },
+        {
+            "origem": "BOM JESUS DAS SELVAS",
+            "destino": "ACAILANDIA",
+            "demanda": 14,
+            "distancia": 83.44
+        },
+        {
+            "origem": "BOM LUGAR",
+            "destino": "BACABAL",
+            "demanda": 10,
+            "distancia": 31.77
+        },
+        {
+            "origem": "BREJO",
+            "destino": "CHAPADINHA",
+            "demanda": 14,
+            "distancia": 67.31
+        },
+        {
+            "origem": "BREJO DE AREIA",
+            "destino": "BACABAL",
+            "demanda": 2,
+            "distancia": 89.26
+        },
+        {
+            "origem": "BURITICUPU",
+            "destino": "ACAILANDIA",
+            "demanda": 24,
+            "distancia": 130.93
+        },
+        {
+            "origem": "BURITI BRAVO",
+            "destino": "CAXIAS",
+            "demanda": 10,
+            "distancia": 120.06
+        },
+        {
+            "origem": "BURITIRANA",
+            "destino": "IMPERATRIZ",
+            "demanda": 8,
+            "distancia": 70.94
+        },
+        {
+            "origem": "CAJARI",
+            "destino": "PINHEIRO",
+            "demanda": 2,
+            "distancia": 88.67
+        },
+        {
+            "origem": "CAJAPIO",
+            "destino": "SAO LUIS",
+            "demanda": 6,
+            "distancia": 58.42
+        },
+        {
+            "origem": "CAMPESTRE DO MARANHAO",
+            "destino": "IMPERATRIZ",
+            "demanda": 18,
+            "distancia": 93.71
+        },
+        {
+            "origem": "CANDIDO MENDES",
+            "destino": "PINHEIRO",
+            "demanda": 1,
+            "distancia": 139.2
+        },
+        {
+            "origem": "CANTANHEDE",
+            "destino": "SAO LUIS",
+            "demanda": 1,
+            "distancia": 120.63
+        },
+        {
+            "origem": "CAPINZAL DO NORTE",
+            "destino": "CAXIAS",
+            "demanda": 3,
+            "distancia": 108.43
+        },
+        {
+            "origem": "CAROLINA",
+            "destino": "BALSAS",
+            "demanda": 2,
+            "distancia": 168.13
+        },
+        {
+            "origem": "CAROLINA",
+            "destino": "IMPERATRIZ",
+            "demanda": 3,
+            "distancia": 219.64
+        },
+        {
+            "origem": "CEDRAL",
+            "destino": "SAO LUIS",
+            "demanda": 2,
+            "distancia": 68.77
+        },
+        {
+            "origem": "CENTRAL DO MARANHAO",
+            "destino": "PINHEIRO",
+            "demanda": 2,
+            "distancia": 46.85
+        },
+        {
+            "origem": "CENTRO NOVO DO MARANHAO",
+            "destino": "CARUTAPERA",
+            "demanda": 6,
+            "distancia": 104.74
+        },
+        {
+            "origem": "CIDELANDIA",
+            "destino": "IMPERATRIZ",
+            "demanda": 6,
+            "distancia": 32.64
+        },
+        {
+            "origem": "COELHO NETO",
+            "destino": "CAXIAS",
+            "demanda": 23,
+            "distancia": 77.51
+        },
+        {
+            "origem": "COLINAS",
+            "destino": "CAXIAS",
+            "demanda": 12,
+            "distancia": 162.3
+        },
+        {
+            "origem": "CONCEICAO DO LAGO-ACU",
+            "destino": "BACABAL",
+            "demanda": 12,
+            "distancia": 44.59
+        },
+        {
+            "origem": "COROATA",
+            "destino": "CODO",
+            "demanda": 34,
+            "distancia": 45.16
+        },
+        {
+            "origem": "CURURUPU",
+            "destino": "PINHEIRO",
+            "demanda": 6,
+            "distancia": 81.59
+        },
+        {
+            "origem": "DAVINOPOLIS",
+            "destino": "IMPERATRIZ",
+            "demanda": 7,
+            "distancia": 30.06
+        },
+        {
+            "origem": "DOM PEDRO",
+            "destino": "CAXIAS",
+            "demanda": 11,
+            "distancia": 120.86
+        },
+        {
+            "origem": "DUQUE BACELAR",
+            "destino": "CHAPADINHA",
+            "demanda": 3,
+            "distancia": 64.99
+        },
+        {
+            "origem": "ESPERANTINOPOLIS",
+            "destino": "PEDREIRAS",
+            "demanda": 7,
+            "distancia": 47.61
+        },
+        {
+            "origem": "ESTREITO",
+            "destino": "IMPERATRIZ",
+            "demanda": 22,
+            "distancia": 136.54
+        },
+        {
+            "origem": "FEIRA NOVA DO MARANHAO",
+            "destino": "BALSAS",
+            "demanda": 3,
+            "distancia": 140.53
+        },
+        {
+            "origem": "FERNANDO FALCAO",
+            "destino": "CAXIAS",
+            "demanda": 3,
+            "distancia": 222.47
+        },
+        {
+            "origem": "FERNANDO FALCAO",
+            "destino": "PRESIDENTE DUTRA",
+            "demanda": 2,
+            "distancia": 105.16
+        },
+        {
+            "origem": "FORMOSA DA SERRA NEGRA",
+            "destino": "IMPERATRIZ",
+            "demanda": 1,
+            "distancia": 195.96
+        },
+        {
+            "origem": "FORTALEZA DOS NOGUEIRAS",
+            "destino": "BALSAS",
+            "demanda": 5,
+            "distancia": 120.67
+        },
+        {
+            "origem": "FORTUNA",
+            "destino": "CAXIAS",
+            "demanda": 10,
+            "distancia": 130.28
+        },
+        {
+            "origem": "GONCALVES DIAS",
+            "destino": "CAXIAS",
+            "demanda": 8,
+            "distancia": 109.41
+        },
+        {
+            "origem": "GOVERNADOR ARCHER",
+            "destino": "CAXIAS",
+            "demanda": 4,
+            "distancia": 95.39
+        },
+        {
+            "origem": "GOVERNADOR EDISON LOBAO",
+            "destino": "IMPERATRIZ",
+            "demanda": 14,
+            "distancia": 50.69
+        },
+        {
+            "origem": "GOVERNADOR EUGENIO BARROS",
+            "destino": "CAXIAS",
+            "demanda": 4,
+            "distancia": 109.73
+        },
+        {
+            "origem": "GOVERNADOR NUNES FREIRE",
+            "destino": "PINHEIRO",
+            "demanda": 6,
+            "distancia": 99.64
+        },
+        {
+            "origem": "GOVERNADOR LUIZ ROCHA",
+            "destino": "CAXIAS",
+            "demanda": 3,
+            "distancia": 106.08
+        },
+        {
+            "origem": "GOVERNADOR NEWTON BELLO",
+            "destino": "PINHEIRO",
+            "demanda": 1,
+            "distancia": 137.16
+        },
+        {
+            "origem": "GRACA ARANHA",
+            "destino": "CAXIAS",
+            "demanda": 3,
+            "distancia": 122.62
+        },
+        {
+            "origem": "GRAJAU",
+            "destino": "IMPERATRIZ",
+            "demanda": 4,
+            "distancia": 164.98
+        },
+        {
+            "origem": "GUIMARAES",
+            "destino": "SAO LUIS",
+            "demanda": 3,
+            "distancia": 60.64
+        },
+        {
+            "origem": "HUMBERTO DE CAMPOS",
+            "destino": "BARREIRINHAS",
+            "demanda": 8,
+            "distancia": 73.01
+        },
+        {
+            "origem": "ICATU",
+            "destino": "SAO LUIS",
+            "demanda": 6,
+            "distancia": 32.59
+        },
+        {
+            "origem": "ITAIPAVA DO GRAJAU",
+            "destino": "ACAILANDIA",
+            "demanda": 1,
+            "distancia": 186.25
+        },
+        {
+            "origem": "ITAPECURU MIRIM",
+            "destino": "SAO LUIS",
+            "demanda": 31,
+            "distancia": 94.56
+        },
+        {
+            "origem": "JOSELANDIA",
+            "destino": "PEDREIRAS",
+            "demanda": 4,
+            "distancia": 46.86
+        },
+        {
+            "origem": "JUNCO DO MARANHAO",
+            "destino": "CARUTAPERA",
+            "demanda": 1,
+            "distancia": 74.77
+        },
+        {
+            "origem": "JENIPAPO DOS VIEIRAS",
+            "destino": "ACAILANDIA",
+            "demanda": 1,
+            "distancia": 208.54
+        },
+        {
+            "origem": "LAGOA DO MATO",
+            "destino": "TIMON",
+            "demanda": 2,
+            "distancia": 129.94
+        },
+        {
+            "origem": "LAGOA GRANDE DO MARANHAO",
+            "destino": "PEDREIRAS",
+            "demanda": 11,
+            "distancia": 98.72
+        },
+        {
+            "origem": "LAGO DA PEDRA",
+            "destino": "BACABAL",
+            "demanda": 34,
+            "distancia": 53.54
+        },
+        {
+            "origem": "LAGO DO JUNCO",
+            "destino": "BACABAL",
+            "demanda": 6,
+            "distancia": 51.88
+        },
+        {
+            "origem": "LORETO",
+            "destino": "BALSAS",
+            "demanda": 3,
+            "distancia": 168.07
+        },
+        {
+            "origem": "LAGO VERDE",
+            "destino": "BACABAL",
+            "demanda": 5,
+            "distancia": 26.56
+        },
+        {
+            "origem": "MARACACUME",
+            "destino": "CARUTAPERA",
+            "demanda": 2,
+            "distancia": 93.78
+        },
+        {
+            "origem": "MARANHAOZINHO",
+            "destino": "PINHEIRO",
+            "demanda": 1,
+            "distancia": 91.4
+        },
+        {
+            "origem": "MATA ROMA",
+            "destino": "CHAPADINHA",
+            "demanda": 5,
+            "distancia": 30.13
+        },
+        {
+            "origem": "MATINHA",
+            "destino": "PINHEIRO",
+            "demanda": 5,
+            "distancia": 64.19
+        },
+        {
+            "origem": "MATOES",
+            "destino": "TIMON",
+            "demanda": 10,
+            "distancia": 62.1
+        },
+        {
+            "origem": "MILAGRES DO MARANHAO",
+            "destino": "BARREIRINHAS",
+            "demanda": 2,
+            "distancia": 94.77
+        },
+        {
+            "origem": "MIRADOR",
+            "destino": "CAXIAS",
+            "demanda": 7,
+            "distancia": 201.02
+        },
+        {
+            "origem": "MIRANDA DO NORTE",
+            "destino": "SAO LUIS",
+            "demanda": 7,
+            "distancia": 118.44
+        },
+        {
+            "origem": "MIRINZAL",
+            "destino": "PINHEIRO",
+            "demanda": 13,
+            "distancia": 61.6
+        },
+        {
+            "origem": "MONCAO",
+            "destino": "PINHEIRO",
+            "demanda": 13,
+            "distancia": 108.32
+        },
+        {
+            "origem": "MORROS",
+            "destino": "SAO LUIS",
+            "demanda": 10,
+            "distancia": 41.26
+        },
+        {
+            "origem": "NINA RODRIGUES",
+            "destino": "CHAPADINHA",
+            "demanda": 4,
+            "distancia": 67.94
+        },
+        {
+            "origem": "NOVA COLINAS",
+            "destino": "BALSAS",
+            "demanda": 2,
+            "distancia": 137.44
+        },
+        {
+            "origem": "NOVA OLINDA DO MARANHAO",
+            "destino": "PINHEIRO",
+            "demanda": 9,
+            "distancia": 75.35
+        },
+        {
+            "origem": "OLHO DAGUA DAS CUNHAS",
+            "destino": "BACABAL",
+            "demanda": 11,
+            "distancia": 37.89
+        },
+        {
+            "origem": "OLINDA NOVA DO MARANHAO",
+            "destino": "PINHEIRO",
+            "demanda": 3,
+            "distancia": 53.37
+        },
+        {
+            "origem": "PACO DO LUMIAR",
+            "destino": "SAO LUIS",
+            "demanda": 71,
+            "distancia": 15.96
+        },
+        {
+            "origem": "PAULINO NEVES",
+            "destino": "BARREIRINHAS",
+            "demanda": 1,
+            "distancia": 32.09
+        },
+        {
+            "origem": "PARAIBANO",
+            "destino": "CAXIAS",
+            "demanda": 1,
+            "distancia": 187.24
+        },
+        {
+            "origem": "PARNARAMA",
+            "destino": "TIMON",
+            "demanda": 14,
+            "distancia": 70.97
+        },
+        {
+            "origem": "PASSAGEM FRANCA",
+            "destino": "CAXIAS",
+            "demanda": 1,
+            "distancia": 153.89
+        },
+        {
+            "origem": "PASTOS BONS",
+            "destino": "CAXIAS",
+            "demanda": 1,
+            "distancia": 208.78
+        },
+        {
+            "origem": "PEDRO DO ROSARIO",
+            "destino": "PINHEIRO",
+            "demanda": 7,
+            "distancia": 57.36
+        },
+        {
+            "origem": "PENALVA",
+            "destino": "PINHEIRO",
+            "demanda": 6,
+            "distancia": 85.08
+        },
+        {
+            "origem": "PERI MIRIM",
+            "destino": "PINHEIRO",
+            "demanda": 9,
+            "distancia": 26.52
+        },
+        {
+            "origem": "PERITORO",
+            "destino": "CAXIAS",
+            "demanda": 4,
+            "distancia": 121.02
+        },
+        {
+            "origem": "PERITORO",
+            "destino": "PEDREIRAS",
+            "demanda": 8,
+            "distancia": 36.45
+        },
+        {
+            "origem": "PINDARE-MIRIM",
+            "destino": "SANTA INES",
+            "demanda": 21,
+            "distancia": 6.93
+        },
+        {
+            "origem": "PIRAPEMAS",
+            "destino": "CHAPADINHA",
+            "demanda": 10,
+            "distancia": 96.48
+        },
+        {
+            "origem": "PIO XII",
+            "destino": "BACABAL",
+            "demanda": 5,
+            "distancia": 56.36
+        },
+        {
+            "origem": "PIO XII",
+            "destino": "SANTA INES",
+            "demanda": 5,
+            "distancia": 38.46
+        },
+        {
+            "origem": "PORTO FRANCO",
+            "destino": "IMPERATRIZ",
+            "demanda": 16,
+            "distancia": 116.08
+        },
+        {
+            "origem": "POCAO DE PEDRAS",
+            "destino": "PEDREIRAS",
+            "demanda": 6,
+            "distancia": 42.9
+        },
+        {
+            "origem": "PRESIDENTE JUSCELINO",
+            "destino": "SAO LUIS",
+            "demanda": 4,
+            "distancia": 60.39
+        },
+        {
+            "origem": "PRESIDENTE SARNEY",
+            "destino": "PINHEIRO",
+            "demanda": 5,
+            "distancia": 31.62
+        },
+        {
+            "origem": "PRESIDENTE VARGAS",
+            "destino": "SAO LUIS",
+            "demanda": 1,
+            "distancia": 98.0
+        },
+        {
+            "origem": "PRIMEIRA CRUZ",
+            "destino": "BARREIRINHAS",
+            "demanda": 1,
+            "distancia": 73.44
+        },
+        {
+            "origem": "RAPOSA",
+            "destino": "SAO LUIS",
+            "demanda": 20,
+            "distancia": 22.12
+        },
+        {
+            "origem": "RIACHAO",
+            "destino": "BALSAS",
+            "demanda": 9,
+            "distancia": 97.42
+        },
+        {
+            "origem": "RIBAMAR FIQUENE",
+            "destino": "IMPERATRIZ",
+            "demanda": 7,
+            "distancia": 69.25
+        },
+        {
+            "origem": "ROSARIO",
+            "destino": "SAO LUIS",
+            "demanda": 23,
+            "distancia": 45.17
+        },
+        {
+            "origem": "SAMBAIBA",
+            "destino": "BALSAS",
+            "demanda": 1,
+            "distancia": 182.34
+        },
+        {
+            "origem": "SANTA FILOMENA DO MARANHAO",
+            "destino": "PRESIDENTE DUTRA",
+            "demanda": 3,
+            "distancia": 23.29
+        },
+        {
+            "origem": "SANTA HELENA",
+            "destino": "PINHEIRO",
+            "demanda": 17,
+            "distancia": 40.31
+        },
+        {
+            "origem": "SANTA LUZIA",
+            "destino": "SANTA INES",
+            "demanda": 21,
+            "distancia": 46.21
+        },
+        {
+            "origem": "SANTA LUZIA DO PARUA",
+            "destino": "PINHEIRO",
+            "demanda": 11,
+            "distancia": 76.74
+        },
+        {
+            "origem": "SANTA QUITERIA DO MARANHAO",
+            "destino": "BARREIRINHAS",
+            "demanda": 16,
+            "distancia": 87.42
+        },
+        {
+            "origem": "SANTA RITA",
+            "destino": "SAO LUIS",
+            "demanda": 18,
+            "distancia": 65.27
+        },
+        {
+            "origem": "SANTO ANTONIO DOS LOPES",
+            "destino": "CAXIAS",
+            "demanda": 5,
+            "distancia": 110.48
+        },
+        {
+            "origem": "SAO BENEDITO DO RIO PRETO",
+            "destino": "CHAPADINHA",
+            "demanda": 5,
+            "distancia": 48.7
+        },
+        {
+            "origem": "SAO BENTO",
+            "destino": "PINHEIRO",
+            "demanda": 14,
+            "distancia": 34.09
+        },
+        {
+            "origem": "SAO DOMINGOS DO MARANHAO",
+            "destino": "CAXIAS",
+            "demanda": 20,
+            "distancia": 138.64
+        },
+        {
+            "origem": "SAO FELIX DE BALSAS",
+            "destino": "BALSAS",
+            "demanda": 2,
+            "distancia": 229.06
+        },
+        {
+            "origem": "SAO FRANCISCO DO BREJAO",
+            "destino": "ACAILANDIA",
+            "demanda": 9,
+            "distancia": 22.31
+        },
+        {
+            "origem": "SAO JOAO BATISTA",
+            "destino": "PINHEIRO",
+            "demanda": 7,
+            "distancia": 54.62
+        },
+        {
+            "origem": "SAO JOAO DO CARU",
+            "destino": "PINHEIRO",
+            "demanda": 5,
+            "distancia": 172.9
+        },
+        {
+            "origem": "SAO JOAO DO SOTER",
+            "destino": "CAXIAS",
+            "demanda": 13,
+            "distancia": 56.33
+        },
+        {
+            "origem": "SAO JOAO DO PARAISO",
+            "destino": "IMPERATRIZ",
+            "demanda": 8,
+            "distancia": 137.42
+        },
+        {
+            "origem": "SAO JOSE DE RIBAMAR",
+            "destino": "SAO LUIS",
+            "demanda": 132,
+            "distancia": 13.44
+        },
+        {
+            "origem": "SAO JOSE DOS BASILIOS",
+            "destino": "CAXIAS",
+            "demanda": 1,
+            "distancia": 136.76
+        },
+        {
+            "origem": "SAO LUIS GONZAGA DO MARANHAO",
+            "destino": "BACABAL",
+            "demanda": 8,
+            "distancia": 20.97
+        },
+        {
+            "origem": "SAO MATEUS DO MARANHAO",
+            "destino": "BACABAL",
+            "demanda": 27,
+            "distancia": 41.35
+        },
+        {
+            "origem": "SAO PEDRO DOS CRENTES",
+            "destino": "BALSAS",
+            "demanda": 4,
+            "distancia": 140.05
+        },
+        {
+            "origem": "SAO RAIMUNDO DAS MANGABEIRAS",
+            "destino": "BALSAS",
+            "demanda": 5,
+            "distancia": 155.32
+        },
+        {
+            "origem": "SAO RAIMUNDO DO DOCA BEZERRA",
+            "destino": "PEDREIRAS",
+            "demanda": 6,
+            "distancia": 79.94
+        },
+        {
+            "origem": "SAO ROBERTO",
+            "destino": "PEDREIRAS",
+            "demanda": 1,
+            "distancia": 66.14
+        },
+        {
+            "origem": "SATUBINHA",
+            "destino": "BACABAL",
+            "demanda": 2,
+            "distancia": 54.69
+        },
+        {
+            "origem": "SENADOR ALEXANDRE COSTA",
+            "destino": "CAXIAS",
+            "demanda": 6,
+            "distancia": 88.11
+        },
+        {
+            "origem": "SENADOR LA ROCQUE",
+            "destino": "IMPERATRIZ",
+            "demanda": 9,
+            "distancia": 34.66
+        },
+        {
+            "origem": "SERRANO DO MARANHAO",
+            "destino": "PINHEIRO",
+            "demanda": 4,
+            "distancia": 75.07
+        },
+        {
+            "origem": "SITIO NOVO",
+            "destino": "IMPERATRIZ",
+            "demanda": 9,
+            "distancia": 112.29
+        },
+        {
+            "origem": "TASSO FRAGOSO",
+            "destino": "BALSAS",
+            "demanda": 2,
+            "distancia": 65.48
+        },
+        {
+            "origem": "TIMBIRAS",
+            "destino": "CAXIAS",
+            "demanda": 13,
+            "distancia": 93.19
+        },
+        {
+            "origem": "TIMBIRAS",
+            "destino": "CODO",
+            "demanda": 4,
+            "distancia": 23.13
+        },
+        {
+            "origem": "TURIACU",
+            "destino": "CARUTAPERA",
+            "demanda": 8,
+            "distancia": 89.08
+        },
+        {
+            "origem": "TURILANDIA",
+            "destino": "PINHEIRO",
+            "demanda": 2,
+            "distancia": 41.84
+        },
+        {
+            "origem": "TRIZIDELA DO VALE",
+            "destino": "PEDREIRAS",
+            "demanda": 8,
+            "distancia": 0.95
+        },
+        {
+            "origem": "TUNTUM",
+            "destino": "PRESIDENTE DUTRA",
+            "demanda": 11,
+            "distancia": 48.65
+        },
+        {
+            "origem": "URBANO SANTOS",
+            "destino": "BARREIRINHAS",
+            "demanda": 3,
+            "distancia": 81.4
+        },
+        {
+            "origem": "URBANO SANTOS",
+            "destino": "CHAPADINHA",
+            "demanda": 15,
+            "distancia": 59.2
+        },
+        {
+            "origem": "VARGEM GRANDE",
+            "destino": "CHAPADINHA",
+            "demanda": 15,
+            "distancia": 65.85
+        },
+        {
+            "origem": "VIANA",
+            "destino": "PINHEIRO",
+            "demanda": 9,
+            "distancia": 76.09
+        },
+        {
+            "origem": "VITORIA DO MEARIM",
+            "destino": "PINHEIRO",
+            "demanda": 5,
+            "distancia": 107.49
+        },
+        {
+            "origem": "VITORINO FREIRE",
+            "destino": "BACABAL",
+            "demanda": 15,
+            "distancia": 51.8
+        },
+        {
+            "origem": "ZE DOCA",
+            "destino": "PINHEIRO",
+            "demanda": 18,
+            "distancia": 104.42
+        }
+    ]
+}
